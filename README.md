@@ -61,7 +61,7 @@ Occident Express, reminiscent of the famous Orient Express.
 2. Windows user: Navigate to Windows/Project_AnBo.exe and execute the .exe file
 3. MacOS user: Navigate to MacOs.app/Contents/MacOS/Project_AnBo.exe and execute the .exe file
 
-Note: MacOS users might experience an error saying "The appication cannot be opened" or "Your do not have permission to open the application". 
+Note: MacOS users might experience an error saying "The appication cannot be opened" or "You do not have permission to open the application". 
 This is because of the MacOS security settings. There is a work around for this with the chmod command: https://discussions.unity.com/t/you-do-not-have-permission-to-open-the-application-error-on-mac-build/848447
    
    
